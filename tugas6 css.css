@@ -1,0 +1,117 @@
+/*ini adalah comment*/
+
+/*reset*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: sans-serif;
+    color: white;
+    background-color: rgb(190, 245, 204);
+}
+
+img {
+    width: 40%; /*ukuran gambar*/
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 0%;
+    margin-right: 0%;
+   
+}
+
+/*paragraf*/
+p {
+    background-color: rgb(190, 216, 245);
+    color: black;
+    font-family: 'Franklin Gothic';
+    text-align: justify;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 20px;
+}
+ul {
+    padding-left: 64px;
+    color: black;
+    font-family: 'Franklin Gothic';
+}
+
+/*link*/
+a {
+    color: white;
+}
+
+table {
+    padding-left: 10px;
+    width: 20%;
+    border-left: 2px solid rgb(17, 0, 255);
+    margin-left: 12px;
+    font-family: 'Franklin Gothic';
+}
+
+
+.wrapper-content {
+    background-color: rgb(190, 216, 245);
+    text-align: center;
+    color: white;
+    
+}
+
+/*class*/
+.pback {
+    border-radius: 10px;
+    background-color: rgb(17, 0, 255);
+    color: white;
+    text-align: center;
+    padding-bottom: 2%;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+
+
+.back {
+    background-image: url(ol4.jpg);
+    background-size: cover;
+    padding-top: 2%;
+    padding-bottom: 40%;
+    background-attachment: fixed;
+}
+
+.head {
+    border-radius: 10px;
+    background-color: rgba(247, 0, 255, 0.726);
+    color: white;
+    text-align: center;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.head2 {
+    color: white;
+    background: rgb(17, 0, 255);
+    text-align: center;
+}
+
+.par {
+    background-color: rgb(97, 97, 97);
+    color: white;
+    padding-top: 0;
+    padding-left: 10px;
+    border-left: 2px solid rgb(17, 0, 255);
+    margin-left: 12px;
+}
+
+.wrapper-list {
+    background-color: rgb(97, 97, 97);
+
+}
+
+.nama {
+    background-color: rgb(97, 97, 97);
+    color: rgb(17, 0, 255)ed;
+    padding-left: 10px;
+    padding-bottom: 1%;
+    text-align: left;
+    border: 2px solid rgb(17, 0, 255);
+}
